@@ -12,3 +12,4 @@
 /home/necmi/c#/TestProject/obj/Debug/net8.0/TestProject.pdb
 /home/necmi/c#/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /home/necmi/c#/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/home/necmi/c#/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
